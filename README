@@ -1,0 +1,6 @@
+######	ASSIGNMENT 5 ######
+
+The requestS file and the number of servers should be provided as command line arguments. 
+eg: $python simulation.py requests.csv 3
+
+
